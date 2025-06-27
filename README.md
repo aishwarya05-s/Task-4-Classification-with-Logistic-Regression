@@ -7,4 +7,4 @@ Steps Involved:
 3. Spliting data into train-test split.
 4. Fitting logistic regression model for breast cancer diagnosis.
 5. Checking accuracy.
-6. The model accuracy is 97% suggesting good fit.
+6. The model accuracy is approximately 98% suggesting good fit.
